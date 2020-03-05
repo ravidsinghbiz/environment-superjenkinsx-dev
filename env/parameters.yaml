@@ -1,0 +1,15 @@
+adminUser:
+  password: local:superjenkinsx/adminUser:password
+  username: admin
+docker:
+  email: ravidsingh.biz@gmail.com
+  password: local:superjenkinsx/docker:password
+  url: https://hub.docker.com/u/ravidsinghbiz
+  username: ravidsinghbiz
+enableDocker: true
+pipelineUser:
+  email: ravidsingh.biz@gmail.com
+  token: local:superjenkinsx/pipelineUser:token
+  username: ravidsinghbiz
+prow:
+  hmacToken: local:superjenkinsx/prow:hmacToken
