@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: ravidsinghbiz
+    provider: github
+    repository: widgetsweb
+  name: ravidsinghbiz-widgetsweb
+spec:
+  description: Imported application for ravidsinghbiz/widgetsweb
+  httpCloneURL: https://github.com/ravidsinghbiz/widgetsweb.git
+  org: ravidsinghbiz
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: widgetsweb
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/ravidsinghbiz/widgetsweb.git
