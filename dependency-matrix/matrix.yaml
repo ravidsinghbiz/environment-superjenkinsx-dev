@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/ravidsinghbiz/widgetsweb.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: ravidsinghbiz
+  repo: skiapp
+  url: https://github.com/ravidsinghbiz/skiapp.git
+  version: ""
+  versionURL: ""
