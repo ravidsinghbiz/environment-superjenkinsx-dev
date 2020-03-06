@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: ravidsinghbiz
+  repo: widgetsweb
+  url: https://github.com/ravidsinghbiz/widgetsweb.git
+  version: ""
+  versionURL: ""
